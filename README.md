@@ -116,9 +116,7 @@ DataLens includes client-side data-processing libraries. Do not assume that ever
 - [ ] Add the deployed demo URL and repository URL below.
 
 ## 🔗 Links
-
-- **Live Demo:** _Add your deployed URL_
-- **Source Code:** _Add your repository URL_
+- **Source Code:** https://github.com/ananyamarghade/DataLensAI-Interactive-data-analytics-dashboard
 
 ## 👩‍💻 Project Note
 
